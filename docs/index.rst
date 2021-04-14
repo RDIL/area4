@@ -26,10 +26,11 @@ By Reece Dunham [#RDIL]_
 
 Welcome to area4, the flexible divider library.
 
-From here, you may want to proceed to the Concept page.
+From here, you may want to proceed to the _`Concept page`.
 
 Want to skip right to the action? Select the Installing page.
 
 
 .. _`View on GitHub`: https://github.com/area4lib/area4
+.. _`Concept page`: https://area4.readthedocs.io/en/stable/concept/
 .. [#RDIL] <me@rdil.rocks>
